@@ -1,7 +1,7 @@
 # microservice-quiz-app
 # Microservice Project 2
 
-This is a simple **Spring Boot microservices application** that consists of multiple services working together. The project follows a **microservices architecture** and includes the following services:
+This simple **Spring Boot microservices application** consists of multiple services working together. The project follows a **microservices architecture** and includes the following services:
 
 ## 📁 Project Structure
 ```
